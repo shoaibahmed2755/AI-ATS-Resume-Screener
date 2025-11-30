@@ -7,7 +7,7 @@ Built with **Python**, **Streamlit**, **Gemini AI**, and **NLP embeddings**.
 
 # 📊 AI Resume Screening — Smart Hiring Dashboard
 
-![ATS Banner](https://img.freepik.com/free-vector/data-analysis-concept-illustration_114360-8462.jpg)
+![ATS Banner](https://github.com/shoaibahmed2755/AI-ATS-Resume-Screener/blob/main/Images/Dash.png)
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)]() [![Streamlit](https://img.shields.io/badge/Streamlit-2.0-red?logo=streamlit)]() [![Gemini AI](https://img.shields.io/badge/Google-Gemini%202.5%20Flash-black?logo=google)]() [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
@@ -49,9 +49,9 @@ Perfect for:
 
 ## 🖼️ Screenshots
 
-| Dashboard | Resume Analysis | Score Visualization |
+| Dashboard | Resume Analysis | Job Des-Summarize |
 |-----------|----------------|---------------------|
-| *(coming soon)* | *(coming soon)* | *(coming soon)* |
+| ![](https://github.com/shoaibahmed2755/AI-ATS-Resume-Screener/blob/main/Images/Dash.png) | ![](https://github.com/shoaibahmed2755/AI-ATS-Resume-Screener/blob/main/Images/Resume%20Ana.png) | ![](https://github.com/shoaibahmed2755/AI-ATS-Resume-Screener/blob/main/Images/JD.png) |
 
 ---
 
