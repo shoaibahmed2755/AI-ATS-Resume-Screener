@@ -97,6 +97,13 @@ Open browser:
 - Pandas
 - Matplotlib
 - PDF / DOCX parsing
+---
+
+## 👨‍💻 Contributors
+
+| Name | Role | Photo | LinkedIn |
+|------|------|-------|----------|
+| **Shoaib Ahmed** | Developer & Designer | ![Shoaib](https://raw.githubusercontent.com/shoaibahmed2755/Twinenergy/main/Contri/Shoaib.png) | [LinkedIn](https://www.linkedin.com/in/shoaib-ahmed-b05973274/) |
 
 ---
 
@@ -105,10 +112,6 @@ git fork https://github.com/shoaibahmed2755/AI-ATS.git
 git checkout -b feature-name
 git commit -m "Add new feature"
 git push origin feature-name
-
-yaml
-Copy code
-Submit a pull request 🚀
 
 ---
 
