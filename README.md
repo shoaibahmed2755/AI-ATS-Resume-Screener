@@ -101,7 +101,7 @@ Open browser:
 ---
 
 ## 🤝 Contributing
-git fork https://github.com/YOUR-USERNAME/AI-ATS.git
+git fork https://github.com/shoaibahmed2755/AI-ATS.git
 git checkout -b feature-name
 git commit -m "Add new feature"
 git push origin feature-name
