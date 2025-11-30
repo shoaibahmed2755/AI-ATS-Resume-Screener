@@ -16,9 +16,6 @@ Built with **Python**, **Streamlit**, **Gemini AI**, and **NLP embeddings**.
 ## 🌐 Live Demo
 👉 COMING SOON
 
-yaml
-Copy code
-
 ---
 
 ## 🧠 About the Project
@@ -59,6 +56,7 @@ Perfect for:
 ---
 
 ## 🧩 Project Structure
+```
 AI-ATS/
 │
 ├── app.py
@@ -71,9 +69,7 @@ AI-ATS/
 ├── embeddings.py
 ├── scoring.py
 └── explain.py
-
-yaml
-Copy code
+```
 
 ---
 
